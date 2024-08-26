@@ -1,0 +1,14 @@
+{
+  "title": "Twój Film",
+  "duration": 5482,
+  "live": false,
+  "thumbnail": "https://example.com/thumb.jpg",
+  "sources": [
+    {
+      "url": "https://vcze114.cda.pl/h/b/b/24/na/auu0GIE7cmYkhB62oYVJBA/1906134/1724724675/hd083f1d34f17ff236ce49aece5e5fe111.mp4",
+      "contentType": "video/mp4",
+      "quality": 1080,
+      "bitrate": 5000
+    }
+  ]
+}
